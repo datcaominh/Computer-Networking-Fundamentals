@@ -30,4 +30,6 @@ The topology includes two distinct server zones:
 * Essential Network Services Setup (DHCP, DNS, HTTP, FTP)
 * Wireless Access Point Integration
 
+Topology 
+
 <img width="789" height="477" alt="Screenshot 2026-06-22 183801" src="https://github.com/user-attachments/assets/c0664b23-1417-4a42-aaa7-c9f61e7942a8" />
